@@ -1,5 +1,6 @@
 export const projects = [
   {
+    id: 1,
     title: "CarGet - Landing Page",
     image: "/carget-landing-page.svg",
     summary: "CarGet - Application for buying and selling cars.",
@@ -24,6 +25,7 @@ export const projects = [
     ],
   },
   {
+    id: 2,
     title: "CarGet - Article preview",
     image: "/carget-car-preview.svg",
     summary:
@@ -53,6 +55,7 @@ export const projects = [
     ],
   },
   {
+    id: 3,
     title: "Movie Library",
     image: "/movie-library.svg",
     summary:
@@ -83,6 +86,7 @@ export const projects = [
   },
 
   {
+    id: 4,
     title: "Airbnb Clone",
     image: "/airbnb-clone.svg",
     summary:
@@ -98,7 +102,7 @@ export const projects = [
         image: "react-javascript-js-framework-facebook-svgrepo-com.svg",
       },
       {
-        title: "Next.js",
+        title: "Nextjs",
         image: "next-dot-js-svgrepo-com.svg",
       },
       {
